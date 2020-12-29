@@ -1,0 +1,41 @@
+h1{
+
+    color:darkturquoise;
+
+}
+
+.grid img {
+
+    border: 2px solid black;
+    border-radius: 50 px;
+
+}
+
+.origami {
+
+    border-radius: 20px;
+
+    width: 310px;
+    font-family: Lucida Sans;
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu {
+
+    display: flex;
+    justify-content: space-evenly;
+    background-color:grey;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+
+}
+
+body {
+
+    background-color:darkkhaki;
+
+}
